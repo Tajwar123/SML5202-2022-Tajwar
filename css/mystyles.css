@@ -1,6 +1,6 @@
 .myBanner {
-  background-image: url(https://images.pexels.com/photos/208701/pexels-photo-208701.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-}
+  background: white;
+  background-image: linear-gradient(to top, #ffffff, #ff0000, #05ff75);
 
 /** Wikipedia Search Styles **/
 *,
