@@ -2,6 +2,15 @@
   background-color: white;
   background-image: linear-gradient(to left, red, white, #05ff75);
 
+.brightness {
+    background-color: white;
+    display: inline-block;
+
+}
+.brightness img:hover {
+    opacity: .5;
+}
+  
 /** Wikipedia Search Styles **/
 *,
 *::before,
