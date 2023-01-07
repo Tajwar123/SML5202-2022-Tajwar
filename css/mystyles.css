@@ -3,8 +3,8 @@
   background-image: linear-gradient(to left, red, white, #05ff75);
 
 a:link {
-  background-color: transparent;
-  display: inline-block;
+  color: black;
+  text-decoration: none;
 }
 
 a:hover {
