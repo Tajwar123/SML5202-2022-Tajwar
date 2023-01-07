@@ -1,6 +1,6 @@
 .myBanner {
   background-color: white;
-  background-image: linear-gradient(to top, #ffffff, #ff0000, #05ff75);
+  background-image: linear-gradient(to left, red, white, #05ff75);
 
 /** Wikipedia Search Styles **/
 *,
