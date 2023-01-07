@@ -2,20 +2,7 @@
   background-color: white;
   background-image: linear-gradient(to left, red, white, #05ff75);
 
-a:link, a:visited {
-  background-color: black;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-
-a:hover, a:active {
-  background-color: grey;
-}
  
-  
 /** Wikipedia Search Styles **/
 *,
 *::before,
